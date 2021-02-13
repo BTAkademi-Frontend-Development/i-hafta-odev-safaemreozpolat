@@ -4,10 +4,17 @@
 - Kurulum tamamlandı
 
 - VS Code’da kullanabileceğiniz eklentilerin araştırılması
-- Eklentiler eklenildi.
+
+- Auto Close Tag
+- npm
+- NgBootstrap Snippets
+- Mono Debug
+- Live Server
+- GitHub Pull Requests and Issues
+- Eklentileri yapıldı
 
 -  Github hesabı açılması
--  Hesap oluşturuldu.
+-  Hesap oluşturuldu.https://github.com/safaemreozpolat
 
 -  İleri gelen firmalara ait Frontend alanındaki iş ilanlarından bazılarının araştırılması
 -  Araştırma yapıldı. Genel olarak Html,Java,Css kalıp halinde her firma tarafından isteniliyor. Git Github Gitlab firmalardan firmalara görer değişiyor
