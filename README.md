@@ -6,12 +6,12 @@
 - VS Code’da kullanabileceğiniz eklentilerin araştırılması
 
 - Auto Close Tag
-- npm
-- NgBootstrap Snippets
-- Mono Debug
-- Live Server
-- GitHub Pull Requests and Issues
-- Eklentileri yapıldı
+-- npm
+-- NgBootstrap Snippets
+-- Mono Debug
+--Live Server
+--GitHub Pull Requests and Issues
+-- Eklentileri yapıldı
 
 -  Github hesabı açılması
 -  Hesap oluşturuldu.https://github.com/safaemreozpolat
