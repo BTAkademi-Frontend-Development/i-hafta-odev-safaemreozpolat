@@ -2,10 +2,9 @@
 
 - Visual Studio Code Kurulumu
 - Kurulum tamamlandı
-
+>
+>
 - VS Code’da kullanabileceğiniz eklentilerin araştırılması
->
->
 - Auto Close Tag
 - npm
 - NgBootstrap Snippets
